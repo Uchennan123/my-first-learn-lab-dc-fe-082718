@@ -1,24 +1,4 @@
-# Your First Learn Lab
 
-## Problem Statement
-
-Before we begin diving deep into code, it is important to make sure that we go
-over the proper steps involved in completing labs on Learn. In this _lab_ (yep,
-this is a lab!), we will be introducing those steps.
-
-## Objectives
-
-1. Introduce the concept of running tests on Learn
-2. Pass the tests to confirm you are ready for future lessons
-
-## Labs Are Lessons _with Tests_
-
-On Learn, labs are lessons with tests. The difficulty level of labs will vary,
-but they all follow the same core steps. To start any lab, if you are using the
-Learn IDE, you must first either click "Open IDE" (or, if you are using your own
-local set up, _fork and clone_ this repository).  This will make a personal copy
-of the lab for you to work on. Once you've opened up your development
-environment, follow the steps below:
 
 1. In your terminal, type `learn` and press enter
 2. Read the messages that appear in the terminal.
